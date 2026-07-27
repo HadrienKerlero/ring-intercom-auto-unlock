@@ -59,6 +59,11 @@ La tabla completa está en el [README en inglés](README.md#configuration). Vari
 
 Durante el horario activo la puerta se abre para **cualquiera** que llame, sin confirmación. Mantén la franja horaria lo más estrecha posible y valora si es aceptable en tu caso.
 
+## Apoya el proyecto
+
+- ⭐ Dale una estrella al repositorio
+- ☕ [Invítame a un café](https://buymeacoffee.com/mzat.dev)
+
 ## Aviso legal
 
 Proyecto **no oficial**, sin relación con Ring LLC ni Amazon. Se basa en la API no oficial de Ring mediante [ring-client-api](https://github.com/dgreif/ring), que puede cambiar en cualquier momento. La apertura automática es **bajo tu propia responsabilidad**.

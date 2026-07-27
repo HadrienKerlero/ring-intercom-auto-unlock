@@ -59,6 +59,11 @@ Die vollständige Tabelle steht im [englischen README](README.md#configuration).
 
 Während des aktiven Zeitfensters öffnet sich die Tür für **jeden**, der klingelt — ohne Bestätigung. Halte das Zeitfenster so eng wie möglich und prüfe, ob das für deinen Einsatzzweck vertretbar ist.
 
+## Projekt unterstützen
+
+- ⭐ Gib dem Repo einen Stern
+- ☕ [Spendier mir einen Kaffee](https://buymeacoffee.com/mzat.dev)
+
 ## Haftungsausschluss
 
 **Inoffizielles** Projekt, nicht mit Ring LLC oder Amazon verbunden. Basiert auf der inoffiziellen Ring-API via [ring-client-api](https://github.com/dgreif/ring), die sich jederzeit ändern kann. Automatisches Öffnen erfolgt **auf eigenes Risiko**.

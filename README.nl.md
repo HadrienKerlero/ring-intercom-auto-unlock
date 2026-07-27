@@ -59,6 +59,11 @@ De volledige tabel staat in de [Engelse README](README.md#configuration). Belang
 
 Tijdens het actieve venster gaat de deur open voor **iedereen** die aanbelt, zonder bevestiging. Houd het tijdvenster zo krap mogelijk en beoordeel of dat acceptabel is voor jouw situatie.
 
+## Steun het project
+
+- ⭐ Geef de repo een ster
+- ☕ [Trakteer me op een koffie](https://buymeacoffee.com/mzat.dev)
+
 ## Disclaimer
 
 **Onofficieel** project, niet verbonden aan Ring LLC of Amazon. Gebaseerd op de onofficiële Ring-API via [ring-client-api](https://github.com/dgreif/ring), die elk moment kan veranderen. Automatisch openen is **op eigen risico**.

@@ -59,6 +59,11 @@ Le tableau complet se trouve dans le [README anglais](README.md#configuration). 
 
 Pendant la plage active, la porte s'ouvre pour **quiconque** sonne, sans confirmation. Gardez la plage horaire aussi étroite que possible et vérifiez que c'est acceptable pour votre usage.
 
+## Soutenir le projet
+
+- ⭐ Mettez une étoile au dépôt
+- ☕ [Offrez-moi un café](https://buymeacoffee.com/mzat.dev)
+
 ## Avertissement
 
 Projet **non officiel**, sans lien avec Ring LLC ou Amazon. Repose sur l'API non officielle de Ring via [ring-client-api](https://github.com/dgreif/ring), qui peut changer à tout moment. L'ouverture automatique se fait **à vos risques et périls**.
