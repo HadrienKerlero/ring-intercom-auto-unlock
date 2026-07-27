@@ -1,0 +1,14 @@
+# Secrets — the refresh token grants full access to your Ring account
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,11 @@
+services:
+  ring-gate:
+    build: .
+    container_name: ring-gate
+    restart: unless-stopped
+    environment:
+      - TZ=Europe/Rome
+    volumes:
+      # il .env deve restare scrivibile: Ring ruota il refresh token
+      # e il servizio lo riscrive qui dentro
+      - ./.env:/app/.env

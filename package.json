@@ -1,0 +1,36 @@
+{
+  "name": "ring-intercom-auto-unlock",
+  "version": "1.0.0",
+  "description": "Automatically unlock your door or gate when someone rings your Ring Intercom. Lightweight self-hosted Node.js service — no Home Assistant required.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "auth": "ring-auth-cli"
+  },
+  "keywords": [
+    "ring",
+    "ring-intercom",
+    "auto-unlock",
+    "home-automation",
+    "smart-home",
+    "doorbell",
+    "gate-opener",
+    "access-control",
+    "self-hosted",
+    "docker"
+  ],
+  "author": "Mattia Zatelli <zatellimattia@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzat-dev/ring-intercom-auto-unlock.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ring-client-api": "^14.3.0"
+  }
+}
