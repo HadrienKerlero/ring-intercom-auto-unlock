@@ -32,5 +32,8 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "ring-client-api": "^14.3.0"
+  },
+  "overrides": {
+    "@eneris/push-receiver": "4.3.1"
   }
 }
